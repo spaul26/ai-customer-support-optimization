@@ -5,7 +5,7 @@ Making Customer Support Faster, Smarter & More Customer-Centric
 
 <img width="1012" height="578" alt="image" src="https://github.com/user-attachments/assets/7ba21a01-09cc-4b5e-b51f-4fb2ea6f0a64" />
 
-📌 **Business Problem**
+##📌 **Business Problem**
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
 
 This creates three major business challenges:
