@@ -1,7 +1,7 @@
 # 🥇 AI-Powered Business Process Optimization
 Making Customer Support Faster, Smarter & More Customer-Centric
-📊 32% projected reduction in resolution time | 😊 18% projected CSAT improvement | ⚡ 45% reduction in manual categorization
-PostgreSQL + Power BI + AI Process Optimization
+📊 **32%** projected reduction in resolution time | 😊 **18%** projected CSAT improvement | ⚡ **45%** reduction in manual categorization
+**PostgreSQL + Power BI + AI Process Optimization**
 
 <img width="1012" height="578" alt="image" src="https://github.com/user-attachments/assets/7ba21a01-09cc-4b5e-b51f-4fb2ea6f0a64" />
 
