@@ -1,20 +1,20 @@
 # 🥇 AI-Powered Business Process Optimization
-Making Customer Support Faster, Smarter & More Customer-Centric
+**Making Customer Support Faster, Smarter & More Customer-Centric** <br>
 📊 **32%** projected reduction in resolution time | 😊 **18%** projected CSAT improvement | ⚡ **45%** reduction in manual categorization <br>
 **PostgreSQL + Power BI + AI Process Optimization**
 
 <img width="1012" height="578" alt="image" src="https://github.com/user-attachments/assets/7ba21a01-09cc-4b5e-b51f-4fb2ea6f0a64" />
 
-📌 **Business Problem**
+📌 **Business Problem** <br>
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
-
-This creates three major business challenges:
-⏱️ Long resolution times — tickets take longer to resolve than necessary.
-📉 Inconsistent customer satisfaction — delays and inefficient routing negatively impact CSAT.
+<br>
+This creates three major business challenges: <br>
+⏱️ Long resolution times — tickets take longer to resolve than necessary. <br>
+📉 Inconsistent customer satisfaction — delays and inefficient routing negatively impact CSAT. <br>
 👩‍💻 High manual effort — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
-
-🎯 **Project Goal**
-The goal of this project is to analyze customer support operations and identify opportunities to:
+<br>
+🎯 **Project Goal** <br>
+The goal of this project is to analyze customer support operations and identify opportunities to: <br>
 Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency
 The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
 
