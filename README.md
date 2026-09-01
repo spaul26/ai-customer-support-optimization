@@ -1,11 +1,11 @@
 # 🥇 AI-Powered Business Process Optimization
 <h3>Making Customer Support Faster, Smarter & More Customer-Centric <br></h3>
 📊 <b>32%</b> projected reduction in resolution time | 😊 <b>18%</b> projected CSAT improvement | ⚡ <b>45%</b> reduction in manual categorization
-<h5>PostgreSQL + Power BI + AI Process Optimization</h5>
+<h4>PostgreSQL + Power BI + AI Process Optimization</h4> <br>
 
 <img width="1012" height="578" alt="image" src="https://github.com/user-attachments/assets/7ba21a01-09cc-4b5e-b51f-4fb2ea6f0a64" />
 
-📌 **Business Problem** <br>
+📌 <h4>Business Problem</h4> <br>
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
 <br><br>
 This creates three major business challenges: <br>
