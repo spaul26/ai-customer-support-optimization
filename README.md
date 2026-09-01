@@ -13,6 +13,7 @@ This creates three major business challenges: <br>
 📉 **Inconsistent customer satisfaction** — delays and inefficient routing negatively impact CSAT. <br>
 👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
 <br>
+
 🎯 **Project Goal** <br>
 The goal of this project is to analyze customer support operations and identify opportunities to: <br>
 Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency <br>
@@ -36,37 +37,39 @@ Are there seasonal or monthly workload patterns? <br>
 Helps identify workload patterns, peak periods, high-volume channels, and products requiring additional support resources.
 <img width="1031" height="558" alt="image" src="https://github.com/user-attachments/assets/41f842b2-2830-464f-92b2-a3d00379d9d6" />
 <br>
+
 2️⃣ **Response & Resolution Performance** <br>
 Analyzes:<br>
 Average First Response Time<br>
 Average Resolution Time<br>
-Trends in support performance<br><br>
+Trends in support performance<br>
 
 **Business Question:** <br>
-Where are delays occurring in the customer support process? <br><br>
+Where are delays occurring in the customer support process? <br>
 
 **Business Value:** <br>
 Tickets requiring longer resolution times represent an opportunity for AI-assisted prediction, proactive escalation, and workflow optimization.<br>
 <img width="1033" height="565" alt="image" src="https://github.com/user-attachments/assets/4ec88e5b-13d1-4a69-b30f-d56abfc0be40" />
 <br>
+
 3️⃣ **Customer Satisfaction by Product** <br>
 Analyzes:<br>
 CSAT by product <br>
-Relationship between customer experience and support performance <br><br>
+Relationship between customer experience and support performance <br>
 
 **Business Question:** <br>
-Which products are associated with lower customer satisfaction, and where should improvement efforts be prioritized? <br><br>
+Which products are associated with lower customer satisfaction, and where should improvement efforts be prioritized? <br>
 
 **Business Value:** <br>
 Combining CSAT + resolution performance + ticket volume can help prioritize improvement initiatives based on customer impact rather than ticket volume alone. <br>
 <img width="1035" height="576" alt="image" src="https://github.com/user-attachments/assets/bd748741-21b5-4d26-bde4-870887f3316a" />
 
 🤖 **From Analytics → AI** <br>
-The dashboards identify where the problems are. <br><br>
+The dashboards identify where the problems are. <br>
 
-The next question is: How can AI solve them? <br><br>
+The next question is: How can AI solve them? <br>
 
-I identified three high-impact AI opportunities.<br><br>
+I identified three high-impact AI opportunities.<br>
 
 ⚡ **01 — Automate Simple Tickets** <br>
 The data shows that refund requests, technical issues, cancellations, billing inquiries and product inquiries represent the major ticket categories.<br>
@@ -75,7 +78,7 @@ Dividing tickets into three stages:<br>
 Order status, Basic product questions, Password/reset instructions, Basic troubleshooting, Billing explanations, Cancellation policy questions <br>
 *AI + Human*- More complicated issues. <br>
 *Human Only*- Data loss, Fraud, Serious technical failures, highly frustrated customers, Exceptions requiring approval <br>
-This allows agents to focus on high-value problems.<br><br>
+This allows agents to focus on high-value problems.<br>
 
 🔮 **02 — Resolution-Time & Escalation Prediction** <br>
 Predict difficult/slow tickets before they become severe level problems. <br>
@@ -95,25 +98,26 @@ Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk
 <img width="616" height="678" alt="image" src="https://github.com/user-attachments/assets/0c2b4c26-5fab-476b-942f-68249a85eb95" />
 <br><br>
 📈 **Projected Business Impact**<br>
+
 The proposed AI-enabled process could potentially deliver:<br>
 **32% ↓** Estimated Resolution Time <br>
 **18% ↑** Predicted CSAT <br>
 **45% ↓** Manual Ticket Categorization <br>
 These projections demonstrate the potential business value of moving from a manual support process → AI-assisted support operations.<br><br>
 
-🛠️ **Tech Stack** <br><br>
+🛠️ **Tech Stack** <br>
 
 **Data & SQL** <br>
 🐘 **PostgreSQL** <br>
 SQL Data Cleaning <br>
 Data Transformation <br>
-Business Analysis <br><br>
+Business Analysis <br>
 
 **Visualization** <br>
 📊 **Power BI** <br>
 Interactive Dashboards <br>
 KPI Analysis <br>
-Data Storytelling <br><br>
+Data Storytelling <br>
 
 **AI & Strategy** <br>
 🤖 **AI Opportunity Identification** <br>
@@ -122,17 +126,17 @@ Process Optimization <br>
 Customer Experience Strategy <br><br>
 
 🔍 **Project Workflow** <br>
-**DATA**
- ↓
-**PostgreSQL**
- ↓
-**Clean & Transform**
- ↓
-**Analyze**
- ↓
-**Power BI Dashboards**
- ↓
-**Identify Bottlenecks**
+**DATA**<br>
+ ↓<br>
+**PostgreSQL**<br>
+ ↓<br>
+**Clean & Transform**<br>
+ ↓<br>
+**Analyze**<br>
+ ↓<br>
+**Power BI Dashboards**<br>
+ ↓<br>
+**Identify Bottlenecks**<br>
  ↓
 **AI Opportunity Analysis**
  ↓
