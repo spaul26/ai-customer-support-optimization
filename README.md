@@ -146,4 +146,4 @@ Customer Experience Strategy <br><br>
 
 <h3>📬 Contact</h3>
 Made with 💻 by <b>Swastika Paul</b><br>
-📩 [LinkedIn](https://www.linkedin.com/in/swastikapaul015) Email: spaul9@stevens.edu
+📩 [LinkedIn](https://www.linkedin.com/in/swastikapaul015/) Email: spaul9@stevens.edu
