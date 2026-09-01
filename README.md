@@ -16,8 +16,8 @@ This creates three major business challenges: <br>
 
 <h3>🎯 Project Goal</h3>
 The goal of this project is to analyze customer support operations and identify opportunities to: <br>
-Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency <br>
-The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
+<b>Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency</b> <br>
+This project analyzes <b></b>5650 customer support tickets</b> and combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
 <br>
 
 <h3>📊 POWER BI Dashboard</h3>
