@@ -20,7 +20,7 @@ Reduce ticket resolution time → Improve customer satisfaction → Increase ope
 The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
 <br>
 
-📊 **POWER BI Dashboard**
+📊 **POWER BI Dashboard** <br>
 The analysis is organized into 3 key dashboards: <br>
 <br>
 1️⃣ **Ticket Volume & Demand Analysis** <br>
@@ -43,7 +43,6 @@ Helps identify workload patterns, peak periods, high-volume channels, and produc
 Analyzes:<br>
 Average First Response Time<br>
 Average Resolution Time<br>
-Trends in support performance<br>
 
 **Business Question:** <br>
 Where are delays occurring in the customer support process? <br>
@@ -145,6 +144,6 @@ Customer Experience Strategy <br><br>
  ↓<br>
 **Projected Business Impact**<br>
 
-📬 Contact
-Made with 💻 by Swastika Paul
+📬 **Contact**<br>
+Made with 💻 by **Swastika Paul**<br>
 📩 [LinkedIn](https://www.linkedin.com/in/swastikapaul015/) Email: spaul9@stevens.edu
