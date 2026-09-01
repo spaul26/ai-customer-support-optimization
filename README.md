@@ -9,9 +9,9 @@
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
 <br><br>
 This creates three major business challenges: <br>
-⏱️ <h4>Long resolution times<h4> — tickets take longer to resolve than necessary. <br>
-📉 **Inconsistent customer satisfaction** — delays and inefficient routing negatively impact CSAT. <br>
-👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
+⏱️ <b>Long resolution times</b> — tickets take longer to resolve than necessary. <br>
+📉 <b>Inconsistent customer satisfaction</b> — delays and inefficient routing negatively impact CSAT. <br>
+👩‍💻 <b>High manual effort</b> — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
 <br><br>
 
 <h3>🎯 Project Goal</h3>
@@ -23,18 +23,18 @@ The project combines PostgreSQL, Power BI, and AI-driven process recommendations
 <h3>📊 POWER BI Dashboard</h3>
 The analysis is organized into 3 key dashboards: <br>
 <br>
-1️⃣ **Ticket Volume & Demand Analysis** <br>
+1️⃣ <b>Ticket Volume & Demand Analysis</b> <br>
 Analyzed ticket volume across: <br>
 📱 Support channels <br>
 📅 Monthly trends <br>
 📦 Product categories <br>
 <br>
-**Key Business Questions** <br>
+<b>Key Business Questions</b> <br>
 Which channels generate the most tickets? <br>
 Which products create the highest support demand?<br>
 Are there seasonal or monthly workload patterns? <br>
 
-**Business Value:** <br>
+<b>Business Value:</b> <br>
 Helps identify workload patterns, peak periods, high-volume channels, and products requiring additional support resources.
 <img width="1031" height="558" alt="image" src="https://github.com/user-attachments/assets/41f842b2-2830-464f-92b2-a3d00379d9d6" />
 <br>
