@@ -97,7 +97,7 @@ Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk
 <h3>🔄 Proposed Future-State Process</h3>
 <img width="616" height="678" alt="image" src="https://github.com/user-attachments/assets/0c2b4c26-5fab-476b-942f-68249a85eb95" />
 <br><br>
-<h3>📈 Projected Business Impact</h3><br>
+<h3>📈 Projected Business Impact</h3>
 
 The proposed AI-enabled process could potentially deliver:<br>
 **32% ↓** Estimated Resolution Time <br>
