@@ -12,13 +12,14 @@ This creates three major business challenges: <br>
 ⏱️ **Long resolution times** — tickets take longer to resolve than necessary. <br>
 📉 **Inconsistent customer satisfaction** — delays and inefficient routing negatively impact CSAT. <br>
 👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
-<br>
+<br><br>
 
 🎯 **Project Goal** <br>
 The goal of this project is to analyze customer support operations and identify opportunities to: <br>
 Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency <br>
 The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
 <br>
+
 📊 **POWER BI Dashboard**
 The analysis is organized into 3 key dashboards: <br>
 <br>
@@ -74,10 +75,10 @@ I identified three high-impact AI opportunities.<br>
 ⚡ **01 — Automate Simple Tickets** <br>
 The data shows that refund requests, technical issues, cancellations, billing inquiries and product inquiries represent the major ticket categories.<br>
 Dividing tickets into three stages:<br>
-*AI Auto-Resolve*- Simple, repetitive issues such as:<br>
+**AI Auto-Resolve**- Simple, repetitive issues such as:<br>
 Order status, Basic product questions, Password/reset instructions, Basic troubleshooting, Billing explanations, Cancellation policy questions <br>
-*AI + Human*- More complicated issues. <br>
-*Human Only*- Data loss, Fraud, Serious technical failures, highly frustrated customers, Exceptions requiring approval <br>
+**AI + Human**- More complicated issues. <br>
+**Human Only**- Data loss, Fraud, Serious technical failures, highly frustrated customers, Exceptions requiring approval <br>
 This allows agents to focus on high-value problems.<br>
 
 🔮 **02 — Resolution-Time & Escalation Prediction** <br>
@@ -137,9 +138,13 @@ Customer Experience Strategy <br><br>
 **Power BI Dashboards**<br>
  ↓<br>
 **Identify Bottlenecks**<br>
- ↓
-**AI Opportunity Analysis**
- ↓
-**Proposed AI Solutions**
- ↓
-**Projected Business Impact**
+ ↓<br>
+**AI Opportunity Analysis**<br>
+ ↓<br>
+**Proposed AI Solutions**<br>
+ ↓<br>
+**Projected Business Impact**<br>
+
+📬 Contact
+Made with 💻 by Swastika Paul
+📩 [LinkedIn](https://www.linkedin.com/in/swastikapaul015/) Email: spaul9@stevens.edu
