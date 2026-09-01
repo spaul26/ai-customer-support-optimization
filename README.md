@@ -9,16 +9,16 @@
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
 <br><br>
 This creates three major business challenges: <br>
-⏱️ Long resolution times — tickets take longer to resolve than necessary. <br>
-📉 Inconsistent customer satisfaction — delays and inefficient routing negatively impact CSAT. <br>
-👩‍💻 High manual effort — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
-<br>
+⏱️ **Long resolution times** — tickets take longer to resolve than necessary. <br>
+📉 **Inconsistent customer satisfaction** — delays and inefficient routing negatively impact CSAT. <br>
+👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
+
 <br><br>
 🎯 **Project Goal** <br>
 The goal of this project is to analyze customer support operations and identify opportunities to: <br>
 Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency <br>
 The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
-<br>
+<br><br>
 📊 **POWER BI Dashboard**
 The analysis is organized into 3 key dashboards: <br>
 <br>
