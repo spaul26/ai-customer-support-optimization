@@ -86,6 +86,7 @@ Predict difficult/slow tickets before they become severe level problems. <br>
 *Risk*: High <br>
 *Recommended action*: Escalate to Tier 2 <br>
 It can then intervene before the ticket becomes overdue.<br>
+
 🎯 **03 — AI Priority / Scoring Engine** <br>
 Instead of treating every ticket equally, assign an AI-generated priority score. <br>
 Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk + Historical Resolution Difficulty <br>
