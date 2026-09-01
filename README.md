@@ -81,12 +81,11 @@ This allows agents to focus on high-value problems.<br><br>
 🔮 **02 — Resolution-Time & Escalation Prediction** <br>
 Predict difficult/slow tickets before they become severe level problems. <br>
 *Input variables*: Ticket category, Issue type, Product, Customer sentiment, Channel, Previous interactions, Number of messages, Escalation history <br>
-*Output*: <br>
+**Output**: <br>
 *Predicted resolution time*: 14.2 hours <br>
 *Risk*: High <br>
 *Recommended action*: Escalate to Tier 2 <br>
-It can then intervene before the ticket becomes overdue.<br><br>
-
+It can then intervene before the ticket becomes overdue.<br>
 🎯 **03 — AI Priority / Scoring Engine** <br>
 Instead of treating every ticket equally, assign an AI-generated priority score. <br>
 Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk + Historical Resolution Difficulty <br>
