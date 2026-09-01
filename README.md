@@ -33,7 +33,7 @@ Analyzed ticket volume across: <br>
 Which channels generate the most tickets? <br>
 Which products create the highest support demand?<br>
 Are there seasonal or monthly workload patterns? <br>
-
+<br>
 <b>Business Value:</b> <br>
 Helps identify workload patterns, peak periods, high-volume channels, and products requiring additional support resources.
 <img width="1031" height="558" alt="image" src="https://github.com/user-attachments/assets/41f842b2-2830-464f-92b2-a3d00379d9d6" />
