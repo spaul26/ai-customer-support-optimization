@@ -9,7 +9,7 @@
 Customer support teams often handle thousands of tickets across multiple channels and product categories. When tickets are manually categorized and prioritized, simple issues can consume valuable agent time while complex issues may not receive attention quickly enough.
 <br><br>
 This creates three major business challenges: <br>
-⏱️ **Long resolution times** — tickets take longer to resolve than necessary. <br>
+⏱️ <h4>Long resolution times<h4> — tickets take longer to resolve than necessary. <br>
 📉 **Inconsistent customer satisfaction** — delays and inefficient routing negatively impact CSAT. <br>
 👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
 <br><br>
