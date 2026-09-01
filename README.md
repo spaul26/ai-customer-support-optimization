@@ -14,13 +14,13 @@ This creates three major business challenges: <br>
 👩‍💻 **High manual effort** — agents spend significant time categorizing and prioritizing tickets instead of solving customer problems.
 <br><br>
 
-🎯 **Project Goal** <br>
+<h3>🎯 Project Goal</h3>
 The goal of this project is to analyze customer support operations and identify opportunities to: <br>
 Reduce ticket resolution time → Improve customer satisfaction → Increase operational efficiency <br>
 The project combines PostgreSQL, Power BI, and AI-driven process recommendations to transform raw support-ticket data into actionable business strategies.
 <br>
 
-📊 **POWER BI Dashboard** <br>
+<h3>📊 POWER BI Dashboard</h3>
 The analysis is organized into 3 key dashboards: <br>
 <br>
 1️⃣ **Ticket Volume & Demand Analysis** <br>
@@ -64,7 +64,7 @@ Which products are associated with lower customer satisfaction, and where should
 Combining CSAT + resolution performance + ticket volume can help prioritize improvement initiatives based on customer impact rather than ticket volume alone. <br>
 <img width="1035" height="576" alt="image" src="https://github.com/user-attachments/assets/bd748741-21b5-4d26-bde4-870887f3316a" />
 
-🤖 **From Analytics → AI** <br>
+<h3>🤖 From Analytics → AI</h3>
 The dashboards identify where the problems are. <br>
 
 The next question is: How can AI solve them? <br>
@@ -94,7 +94,7 @@ Instead of treating every ticket equally, assign an AI-generated priority score.
 Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk + Historical Resolution Difficulty <br>
 *Goal:* Get the right ticket to the right team at the right time. <br><br>
 
-🔄 **Proposed Future-State Process** <br>
+<h3>🔄 Proposed Future-State Process</h3>
 <img width="616" height="678" alt="image" src="https://github.com/user-attachments/assets/0c2b4c26-5fab-476b-942f-68249a85eb95" />
 <br><br>
 📈 **Projected Business Impact**<br>
@@ -105,7 +105,7 @@ The proposed AI-enabled process could potentially deliver:<br>
 **45% ↓** Manual Ticket Categorization <br>
 These projections demonstrate the potential business value of moving from a manual support process → AI-assisted support operations.<br><br>
 
-🛠️ **Tech Stack** <br>
+<h3>🛠️ Tech Stack</h3>
 
 **Data & SQL** <br>
 🐘 **PostgreSQL** <br>
@@ -125,7 +125,7 @@ Predictive Analytics Concepts <br>
 Process Optimization <br>
 Customer Experience Strategy <br><br>
 
-🔍 **Project Workflow** <br>
+<h3>🔍 Project Workflow</h3>
 **DATA**<br>
  ↓<br>
 **PostgreSQL**<br>
