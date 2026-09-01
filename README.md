@@ -97,7 +97,7 @@ Priority Score = Issue Severity + Customer Sentiment + Product Impact + SLA Risk
 <h3>🔄 Proposed Future-State Process</h3>
 <img width="616" height="678" alt="image" src="https://github.com/user-attachments/assets/0c2b4c26-5fab-476b-942f-68249a85eb95" />
 <br><br>
-📈 **Projected Business Impact**<br>
+<h3>📈 Projected Business Impact</h3><br>
 
 The proposed AI-enabled process could potentially deliver:<br>
 **32% ↓** Estimated Resolution Time <br>
@@ -126,23 +126,23 @@ Process Optimization <br>
 Customer Experience Strategy <br><br>
 
 <h3>🔍 Project Workflow</h3>
-**DATA**<br>
+<b>DATA</b><br>
  ↓<br>
-**PostgreSQL**<br>
+<b>PostgreSQL</b><br>
  ↓<br>
-**Clean & Transform**<br>
+<b>Clean & Transform</b><br>
  ↓<br>
-**Analyze**<br>
+<b>Analyze</b><br>
  ↓<br>
-**Power BI Dashboards**<br>
+<b>Power BI Dashboards</b><br>
  ↓<br>
-**Identify Bottlenecks**<br>
+<b>Identify Bottlenecks</b><br>
  ↓<br>
-**AI Opportunity Analysis**<br>
+<b>AI Opportunity Analysis</b><br>
  ↓<br>
-**Proposed AI Solutions**<br>
+<b>Proposed AI Solutions</b><br>
  ↓<br>
-**Projected Business Impact**<br>
+<b>Projected Business Impact</b><br><br>
 
 📬 **Contact**<br>
 Made with 💻 by **Swastika Paul**<br>
