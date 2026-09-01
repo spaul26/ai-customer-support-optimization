@@ -145,5 +145,5 @@ Customer Experience Strategy <br><br>
 <b>Projected Business Impact</b><br><br>
 
 <h3>📬 Contact</h3><br>
-Made with 💻 by <b>Swastika Paul</b><br>
+Made with 💻 by <b>Swastika Paul</b>
 📩 [LinkedIn](https://www.linkedin.com/in/swastikapaul015/) Email: spaul9@stevens.edu
